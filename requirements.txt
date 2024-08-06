@@ -5,7 +5,7 @@ alabaster==0.7.12
 albumentations==0.5.2
 antlr4-python3-runtime==4.9.3
 anyio==3.6.2
-apex==0.1
+apex
 appdirs==1.4.4
 argon2-cffi==21.1.0
 asgiref==3.4.1
